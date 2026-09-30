@@ -1,0 +1,7 @@
+# fish_variables 由 fish 自己生成，每个机器不一样
+fish_variables
+*.bak
+backup.*/
+
+# 不提交本地脚本引用
+fish/conf.d/miyu.fish
