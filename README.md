@@ -49,3 +49,7 @@ nvm --version       # 任何没实现的子命令转给 bash 版
 手写这几十行更可控。原理和 edc/bass 一样：nvm 只改 PATH，不需要 diff 整个环境。
 
 fish 里那几个坑写在 `nvm.fish` 的注释里了，别改坏。
+
+## 许可证
+
+[MIT](LICENSE)。随便拿去改，不用声明来源。
